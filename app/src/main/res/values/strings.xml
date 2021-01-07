@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">H5170043_MuhammedCagatayMercanFinal</string>
+
+    <!-- Splash Activity-->
+    <string name="dialog_title">İnternet bağlantınız yok</string>
+    <string name="dialog_description">Uygulamayı kullanmak için internete bağlanın.</string>
+    <string name="close">Kapat</string>
+    <string name="open_internet">İnterneti Aç</string>
+
+    <!-- ListActivity -->
+    <string name="list_title">Yakın zamanda çıkmış filmler</string>
+    <string name="exit_app">Uygulamayı kapatmak istiyor musunuz?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+
+</resources>
